@@ -1,0 +1,17 @@
+Task 3
+
+1)To compare teh two json have the same properties without order?
+
+  a.  let obj1 ={name:"Person 1",age:5};
+  b.  let obj2 ={age:5,name:"Person"};
+
+Answer:
+
+if(obj1==obj2)
+{
+ console.log("Two json objects are equal);
+}
+else
+{
+ console.log("Not Equal");
+}
